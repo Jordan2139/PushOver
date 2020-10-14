@@ -4,7 +4,8 @@ Essentially PushOver is a script that takes the non-ESX take on the very popular
 
 
 ## Configuration
-```-----------------------------------------------------------
+```
+-----------------------------------------------------------
 -- PushOver- A Simple FiveM Script, Made By Jordan.#2139 --
 -----------------------------------------------------------
 
