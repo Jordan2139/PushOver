@@ -6,7 +6,6 @@
 --           CONFIG YOUR PERIPHERALS HERE!           --
 -------------------------------------------------------
 Config = {
-DamageNeeded = 100.0,  -- 100.0 being broken and 1000.0 being fixed a lower value than 100.0 will break it
 MaxWidth = 5.0,
 MaxHeight = 5.0,
 MaxLength = 5.0,
