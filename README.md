@@ -38,3 +38,6 @@ Keys = {
 - Idea and initial creation
 
 [![5M](https://i.imgur.com/kjtAQla.png)](https://forum.cfx.re/u/britishbrotherhood/summary)
+
+# TJH Development Discord
+[![Developer Discord](https://discordapp.com/api/guilds/696266949348425739/widget.png?style=banner4)](https://discord.com/invite/x7cYjg5)
