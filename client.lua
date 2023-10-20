@@ -14,7 +14,7 @@ Citizen.CreateThread(function()
     Citizen.Wait(200)
     while true do
         local ped = PlayerPedId()
-        local posped = GetEntityCoords(GetPlayerPed(-1))
+        local posped = GetEntityCoords(PlayerPedId())
         local entityWorld = GetOffsetFromEntityInWorldCoords(ped, 0.0, 20.0, 0.0)
         local rayHandle = CastRayPointToPoint(posped.x, posped.y, posped.z, entityWorld.x, entityWorld.y, entityWorld.z, 10, ped, 0)
         local a, b, c, d, closestVehicle = GetRaycastResult(rayHandle)
